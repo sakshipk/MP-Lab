@@ -1,6 +1,6 @@
 .model small
 .data
-n db 7
+n db 5
 a db 05,07,04,03,06
 
 .code
